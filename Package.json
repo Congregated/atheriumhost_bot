@@ -1,0 +1,23 @@
+{
+  "name": "atheriumhost_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Congregated/atheriumhost_bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Congregated/atheriumhost_bot/issues"
+  },
+  "homepage": "https://github.com/Congregated/atheriumhost_bot#readme"
+}
